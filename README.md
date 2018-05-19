@@ -1,7 +1,8 @@
 # Predicting-Mortality-with-Air-Pollution
 
 ## Data
-##### The zipped folder contains data of 24 different cities of USA and deaths.the labels and description are as follows :
+
+### The zipped folder contains data of 24 different cities of USA and deaths.the labels and description are as follows :
 
 death:-daily mortality counts from all causes excluding accidents	
 
@@ -26,4 +27,5 @@ under65_resp:-daily mortality counts from respiratory diseases for age group bel
 date the date in YYYY-MM-DD format
 
 ## Link
+
 http://www.biostat.jhsph.edu/~rpeng/UCLAWorkshop/
