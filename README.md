@@ -2,15 +2,15 @@
 
 ## Data
 
-### The zipped folder contains data of 24 different cities of USA and deaths.the labels and description are as follows :
+### The zipped folder contains data of 24 different cities of USA and deaths.the labels and description are as follows
 
-death:-daily mortality counts from all causes excluding accidents	
+death:-daily mortality counts from all causes excluding accidents
 
-resp:-daily mortality counts from respiratory diseases	 
+resp:-daily mortality counts from respiratory diseases
 
-pm10:-daily PM10 time series, measured in μg/m3	
+pm10:-daily PM10 time series, measured in μg/m3
 
-l1pm10:-daily PM10 values lagged by 1 day	
+l1pm10:-daily PM10 values lagged by 1 day
 
 o3:-daily ozone time series, measured in parts per billion (ppb)
 
